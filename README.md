@@ -14,7 +14,7 @@ To navigate to different parts of the page, use the nav bar to jump to that part
 
 ## Credits
 
-N/A
+The initial code was from the repository: https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
 
